@@ -35,14 +35,14 @@
 <br />
 <br />
 
-[website]: https://www.facebook.com/0xNaim/
-[facebook]: https://www.facebook.com/0xNaim/
-[course]: https://www.facebook.com/0xNaim/
-[twitter]: https://www.facebook.com/0xNaim/
-[youtube]: https://www.facebook.com/0xNaim/
-[instagram]: https://www.facebook.com/0xNaim/
+[website]: https://web.facebook.com/0xNaim
+[facebook]: https://web.facebook.com/0xNaim
+[course]: https://web.facebook.com/0xNaim
+[twitter]: https://web.facebook.com/0xNaim
+[youtube]: https://web.facebook.com/0xNaim
+[instagram]: https://web.facebook.com/0xNaim
 [linkedin]: https://www.facebook.com/0xNaim/
-[webdevplaylist]: https://www.facebook.com/0xNaim/
-[jsplaylist]: https://www.facebook.com/0xNaim/
-[cssplaylist]: https://www.facebook.com/0xNaim/
-[reactplaylist]: https://www.facebook.com/0xNaim/
+[webdevplaylist]: https://web.facebook.com/0xNaim
+[jsplaylist]: https://web.facebook.com/0xNaim
+[cssplaylist]: https://web.facebook.com/0xNaim
+[reactplaylist]: https://web.facebook.com/0xNaim
