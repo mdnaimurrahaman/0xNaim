@@ -8,8 +8,7 @@
 
 ### Connect with me:
 
-
-[<img src="https://camo.githubusercontent.com/f8bcf3653634baab9e8dd74834fc4ef118c31e7d1805024d4d76aaba6369656b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Follow" data-canonical-src="https://img.shields.io/badge/%20-Follow-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;">][facebook]
+[<img src="https://camo.githubusercontent.com/f8bcf3653634baab9e8dd74834fc4ef118c31e7d1805024d4d76aaba6369656b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Follow" data-canonical-src="https://img.shields.io/badge/%20-Follow-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;">][facebook] [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Github Follow" width="22">][github]
 
 <br />
 
@@ -37,7 +36,8 @@
 
 [website]: https://web.facebook.com/0xNaim
 [facebook]: https://web.facebook.com/0xNaim
-[course]: https://web.facebook.com/0xNaim
+[github]: https://github.com/0xNaim/
+[course]: https://web.facebook.com/0xNaim/
 [twitter]: https://web.facebook.com/0xNaim
 [youtube]: https://web.facebook.com/0xNaim
 [instagram]: https://web.facebook.com/0xNaim
