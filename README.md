@@ -1,6 +1,6 @@
 ### Hi there, I'm [Naim][website] 👋
 
-## I'm a Junior JavaScript Developer
+## I'm a Junior Full Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn React, React Native, Vue, Node, Python, java
