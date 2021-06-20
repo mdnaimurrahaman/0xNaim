@@ -1,13 +1,9 @@
 ## **Hi, I'm [Naim][facebook]** :wave:
-<br/>
-
 ## ***I'm Full Stack(MERN) Developer***
-<br/>
 
 <p>
 Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end Development using React.js/Next.js. I've 1.5+ years of experience as a Front-end Web Developer.
 </p>
-<br/>
 
 ## **My Skills**
 -------------
