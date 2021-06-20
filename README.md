@@ -1,4 +1,4 @@
-### **Hi, I'm [Naim Islam][facebook]** :wave:
+### **Hi, I'm [Naim][facebook]** :wave:
 ## ***I'm Full Stack(MERN) Developer***
 
 <p>
@@ -39,13 +39,18 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 <img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Babel-20232A?style=for-the-badge&logo=babel&logoColor=yellow" />&nbsp;
 </p>
-
-
 <br/>
 
 ## **Get in Touch:**
 - Facebook: https://web.facebook.com/0xNaim
 - LinkedIn: https://www.linkedin.com/in/0xnaim
+<br/> <br/>
+
+
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
+</p>
 
 [facebook]: https://web.facebook.com/0xNaim 'Facebook'
 [github]: https://github.com/0xNaim 'Github'
