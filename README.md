@@ -1,4 +1,4 @@
-### **Hi, I'm [Naim][facebook]** :wave:
+### **Hi, I'm [Naim Islam][facebook]** :wave:
 ## ***I'm Full Stack(MERN) Developer***
 
 <p>
@@ -21,7 +21,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 <img src="https://img.shields.io/badge/Firebase-0396de?style=for-the-badge&logo=firebase&logoColor=yellow" />&nbsp;
 <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" />&nbsp;
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=de33a6" />&nbsp;
+<img src="https://img.shields.io/badge/GraphQL-20232A?style=for-the-badge&logo=graphql&logoColor=de33a6" />&nbsp;
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Python-336a99?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
@@ -37,7 +37,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Babel-000000?style=for-the-badge&logo=babel&logoColor=yellow" />&nbsp;
+<img src="https://img.shields.io/badge/Babel-20232A?style=for-the-badge&logo=babel&logoColor=yellow" />&nbsp;
 </p>
 
 
