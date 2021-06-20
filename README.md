@@ -1,4 +1,4 @@
-### **Hi, I'm [Naim][facebook]** :wave:
+### **Hi, I'm [Naim][facebook]** :adult:
 ## **I'm a Full Stack(MERN) Developer**
 
 <p>
