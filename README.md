@@ -55,7 +55,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
+  <img align="center" alt="Visitor Count" width="100%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
 </p>
 
 
