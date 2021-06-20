@@ -1,5 +1,5 @@
 ### **Hi, I'm [Naim][facebook]** :wave:
-## ***I'm Full Stack(MERN) Developer***
+## **I'm Full Stack(MERN) Developer**
 
 <p>
 Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end Development using React.js/Next.js. I've 1.5+ years of experience as a Front-end Web Developer.
@@ -53,9 +53,9 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 <br/> <br/>
 
 
-<h2 align="center">Visitor Count</h2>
+<h1 align="center">Visitor Count</h1>
 <p align="center">
-  <img align="center" alt="Visitor Count" width="100%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
+  <img align="center" alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
 </p>
 
 
