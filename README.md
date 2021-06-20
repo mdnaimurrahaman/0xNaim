@@ -5,7 +5,7 @@
 Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end Development using React.js/Next.js. I've 1.5+ years of experience as a Front-end Web Developer.
 </p>
 
-## **My Skills**
+## **My Skills:**
 <p>
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
@@ -30,7 +30,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 </p>
 <br/>
 
-## **Tools**
+## **Tools:**
 <p>
 <img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-016bbf?style=for-the-badge&logo=vscode&logoColor=yellow" />&nbsp;
@@ -43,7 +43,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 
 <br/>
 
-## **Get in Touch**
+## **Get in Touch:**
 - Facebook: https://web.facebook.com/0xNaim
 - LinkedIn: https://www.linkedin.com/in/0xnaim
 
