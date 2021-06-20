@@ -5,7 +5,7 @@
 Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end Development using React.js/Next.js. I've 1.5+ years of experience as a Front-end Web Developer.
 </p>
 
-## **Connect with Me:**
+## **Connect with Me**
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]&nbsp;
@@ -15,7 +15,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 [<img src="https://img.shields.io/badge/Telegram-96d1f4?style=for-the-badge&logo=telegram&logoColor=299bd6" />][telegram]&nbsp;
 
 
-## **My Skills:**
+## **My Skills**
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
@@ -38,7 +38,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
 <br/>
 
-## **Tools:**
+## **Tools**
 <img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-016bbf?style=for-the-badge&logo=vscode&logoColor=yellow" />&nbsp;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;
@@ -47,7 +47,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 <img src="https://img.shields.io/badge/Babel-20232A?style=for-the-badge&logo=babel&logoColor=yellow" />&nbsp;
 <br/>
 
-## **Get in Touch:**
+## **Get in Touch**
 - Facebook: https://web.facebook.com/0xNaim
 - LinkedIn: https://www.linkedin.com/in/0xnaim
 <br/> <br/>
@@ -57,6 +57,8 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 <p align="center">
   <img align="center" alt="Visitor Count" width="40%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
 </p>
+
+
 
 [facebook]: https://web.facebook.com/0xNaim/ 'Facebook'
 [instagram]: https://www.instagram.com/0xNaim/ "Instagram"
