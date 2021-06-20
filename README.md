@@ -10,6 +10,7 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]&nbsp;
+[<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />][medium]&nbsp;
 [<img src="https://img.shields.io/badge/Stackoverflow-e0e0e0?style=for-the-badge&logo=stackoverflow&logoColor=ec7c23" />][stackoverflow]&nbsp;
 [<img src="https://img.shields.io/badge/Telegram-96d1f4?style=for-the-badge&logo=telegram&logoColor=299bd6" />][telegram]&nbsp;
 
@@ -61,5 +62,6 @@ Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end D
 [instagram]: https://www.instagram.com/0xNaim/ "Instagram"
 [linkedin]: https://www.linkedin.com/in/0xnaim/ 'LinkedIn'
 [github]: https://github.com/0xNaim/ 'Github'
+[medium]: https://medium.com/@0xNaim "Medium"
 [stackoverflow]: https://stackoverflow.com/users/14739490/naim "Stack Overflow"
 [telegram]: https://t.me/Naim_1234 "Telegram"
