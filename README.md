@@ -2,7 +2,7 @@
 ## **I'm a Full Stack(MERN) Developer**
 
 <p>
-Hi there! I'm Naim. I'm a Full Stack Javascript Developer focused on Front-end Development using React.js/Next.js. I've 1.5+ years of experience as a Front-end Web Developer.
+Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Front-end Development using React.js/Next.js. I've 1.5+ years of experience as a Front-end Web Developer.
 </p>
 <hr/>
 
