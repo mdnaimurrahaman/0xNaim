@@ -1,5 +1,5 @@
 ### **Hi, I'm [Naim][facebook]** :adult:
-## **I'm a Full Stack(MERN) Developer**
+## **I'm a MERN Stack Developer**
 
 <p>
 Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Front-end Development using React.js/Next.js. I've 1.5+ years of experience as a Front-end Web Developer.
