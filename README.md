@@ -1,4 +1,5 @@
 ### **Hi, I'm [Naim][facebook]** :adult:
+
 ## **I'm a Full Stack(MERN) Developer**
 
 <p>
@@ -7,6 +8,7 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
 <hr/>
 
 ## **Connect with Me &#8595;**
+
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]&nbsp;
@@ -15,8 +17,8 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
 [<img src="https://img.shields.io/badge/Stackoverflow-e0e0e0?style=for-the-badge&logo=stackoverflow&logoColor=ec7c23" />][stackoverflow]&nbsp;
 [<img src="https://img.shields.io/badge/Telegram-96d1f4?style=for-the-badge&logo=telegram&logoColor=299bd6" />][telegram]&nbsp;
 
-
 ## **My Skills &#8595;**
+
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
@@ -40,8 +42,9 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
 <br/>
 
 ## **Tools &#8595;**
+
 <img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-016bbf?style=for-the-badge&logo=vscode&logoColor=yellow" />&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio-007ACC?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />&nbsp;
@@ -49,23 +52,21 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
 <br/>
 
 ## **Get in Touch &#8595;**
+
 - Email: naimislam3545@gmail.com
 - Facebook: https://web.facebook.com/0xNaim
 - LinkedIn: https://www.linkedin.com/in/0xnaim
-<br/> <br/>
-
+  <br/> <br/>
 
 <h1 align="center">Visitor Count</h1>
 <p align="center">
   <img align="center" alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
 </p>
 
-
-
 [facebook]: https://web.facebook.com/0xNaim/ 'Facebook'
-[instagram]: https://www.instagram.com/0xNaim/ "Instagram"
+[instagram]: https://www.instagram.com/0xNaim/ 'Instagram'
 [linkedin]: https://www.linkedin.com/in/0xnaim/ 'LinkedIn'
 [github]: https://github.com/0xNaim/ 'Github'
-[medium]: https://medium.com/@0xNaim "Medium"
-[stackoverflow]: https://stackoverflow.com/users/14739490/naim "Stack Overflow"
-[telegram]: https://t.me/Naim_1234 "Telegram"
+[medium]: https://medium.com/@0xNaim 'Medium'
+[stackoverflow]: https://stackoverflow.com/users/14739490/naim 'Stack Overflow'
+[telegram]: https://t.me/Naim_1234 'Telegram'
