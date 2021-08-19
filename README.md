@@ -63,10 +63,10 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
   <img align="center" alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
 </p>
 
-[facebook]: https://web.facebook.com/0xNaim/ 'Facebook'
-[instagram]: https://www.instagram.com/0xNaim/ 'Instagram'
-[linkedin]: https://www.linkedin.com/in/0xnaim/ 'LinkedIn'
-[github]: https://github.com/0xNaim/ 'Github'
-[medium]: https://medium.com/@0xNaim 'Medium'
-[stackoverflow]: https://stackoverflow.com/users/14739490/naim 'Stack Overflow'
-[telegram]: https://t.me/Naim_1234 'Telegram'
+[facebook]: https://web.facebook.com/0xNaim
+[instagram]: https://www.instagram.com/0xNaim
+[linkedin]: https://www.linkedin.com/in/0xnaim
+[github]: https://github.com/0xNaim
+[medium]: https://medium.com/@0xNaim
+[stackoverflow]: https://stackoverflow.com/users/14739490/naim
+[telegram]: https://t.me/Naim_1234
