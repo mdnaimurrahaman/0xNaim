@@ -48,7 +48,7 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
 [<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />][github]&nbsp;
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />][github]&nbsp;
 [<img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />][github]&nbsp;
-[<img src="https://img.shields.io/badge/Babel-20232A?style=for-the-badge&logo=babel&logoColor=yellow" />][#]&nbsp;
+[<img src="https://img.shields.io/badge/Babel-20232A?style=for-the-badge&logo=babel&logoColor=yellow" />][github]&nbsp;
 <br/>
 
 ## **Get in Touch &#8595;**
