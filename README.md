@@ -36,7 +36,7 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
 [<img src="https://img.shields.io/badge/GraphQL-20232A?style=for-the-badge&logo=graphql&logoColor=de33a6" />][github]&nbsp;
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" />][github]&nbsp;
 [<img src="https://img.shields.io/badge/Python-336a99?style=for-the-badge&logo=python&logoColor=white" />][github]&nbsp;
-[<img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+[<img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][github]&nbsp;
 [<img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />][github]&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][github]&nbsp;
 <br/>
