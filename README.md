@@ -54,7 +54,7 @@ Hi there! I'm Naim. I'm a Full Stack(MERN) Developer focused on Frontend Develop
 ## **Get in Touch &#8595;**
 
 - Email: naimislam3545@gmail.com
-- Facebook: https://web.facebook.com/0xNaim
+- Facebook: https://www.facebook.com/0xNaim
 - LinkedIn: https://www.linkedin.com/in/0xnaim
   <br/> <br/>
 
