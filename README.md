@@ -1,9 +1,9 @@
 ### **Hi, I'm [Naim][facebook]** :wave:
 
-## **I'm a Full Stack Software Engineer**
+## **I'm a Junior Full Stack Software Engineer**
 
 <p>
-Hi there! I'm Naim. I'm a Full Stack Software Engineer focused on Front-end engineer. I've 2+ years of experience as a Front-end Engineer.
+Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.
 </p>
 <hr/>
 
