@@ -62,7 +62,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Activity Graph &#8595;**
  <div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=0xNaim" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=0xNaim&theme=react-dark" />
  </div>
  <br/>
 
