@@ -3,12 +3,11 @@
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=28&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer!;I+am+a+Software+Developer!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=I+am+Naim!;I+am+a+Programmer!;I+am+a+Software+Developer!"/>
 </div>
 
 <p>Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.</p>
 <hr/>
-<br/>
 
 ## **Connect with Me &#8595;**
 
