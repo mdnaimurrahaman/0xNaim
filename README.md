@@ -2,9 +2,9 @@
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<div>
+<a href="https://github.com/0xNaim">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer!;I+am+a+Software+Developer!"/>
-</div>
+</a>
 
 <p>Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.</p>
 <hr/>
@@ -61,16 +61,16 @@
   <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Activity Graph &#8595;**
- <div>
+ <a href="https://github.com/0xNaim">
   <img src="https://activity-graph.herokuapp.com/graph?username=0xNaim&theme=react-dark" />
- </div>
+ </a>
  <br/>
 
 ## **Total Visitor Count &#8595;**
 
-<p>
+<a href="https://github.com/0xNaim">
   <img alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
-</p>
+</a>
 
 [facebook]: https://web.facebook.com/0xNaim 'Facebook'
 [instagram]: https://www.instagram.com/0xNaim 'Instagram'
