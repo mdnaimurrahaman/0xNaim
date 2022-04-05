@@ -3,7 +3,7 @@
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=I+am+Naim!;I+am+a+Programmer!;I+am+a+Software+Developer!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&&vCenter=true&width=500&height=80&lines=I+am+Naim!;I+am+a+Programmer!;I+am+a+Software+Developer!"/>
 </div>
 
 <p>Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.</p>
@@ -61,9 +61,9 @@
   <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Activity Graph &#8595;**
- <a href="https://github.com/0xNaim">
-  <img alt="Naim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xNaim&custom_title=Naim Islam%20Contribution%20Graph&theme=react-dark" />
- </a>
+ <div>
+  <img src="https://activity-graph.herokuapp.com/graph?username=0xNaim&custom_title=Naim Islam's%20Contribution%20Graph&theme=react-dark" />
+ </div>
  <br/>
 
 ## **Total Visitor Count &#8595;**
