@@ -61,9 +61,9 @@
   <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Activity Graph &#8595;**
- <div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=0xNaim&custom_title=Naim Islam's%20Contribution%20Graph&theme=react-dark" />
- </div>
+ <a href="https://github.com/0xNaim">
+  <img alt="Naim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xNaim&custom_title=Naim Islam%20Contribution%20Graph&theme=react-dark" />
+ </a>
  <br/>
 
 ## **Total Visitor Count &#8595;**
