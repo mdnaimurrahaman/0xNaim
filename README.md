@@ -1,11 +1,14 @@
 ### **Hi, I'm [Naim][facebook]** :wave:
 
-## **I'm a Junior Full Stack Software Engineer**
+<!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<p>
-Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.
-</p>
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=28&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer!;I+am+a+Software+Developer!"/>
+</div>
+
+<p>Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-end engineering. I've 2+ years of experience as a Front-end Engineer.</p>
 <hr/>
+<br/>
 
 ## **Connect with Me &#8595;**
 
@@ -56,11 +59,18 @@ Hi there! I'm Naim. I'm a Junior Full Stack Software Engineer focused on Front-e
 - Email: naimislam3545@gmail.com
 - Facebook: https://www.facebook.com/0xNaim
 - LinkedIn: https://www.linkedin.com/in/0xnaim
-  <br/> <br/>
+  <br/>
 
-<h1 align="center">Visitor Count</h1>
-<p align="center">
-  <img align="center" alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Activity Graph &#8595;**
+ <div>
+  <img alt="Naim Islam Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xNaim&custom_title=Naim Islam's%20Contribution%20Graph&theme=react-dark" />
+ </div>
+ <br/>
+
+## **Total Visitor Count &#8595;**
+
+<p>
+  <img alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
 </p>
 
 [facebook]: https://web.facebook.com/0xNaim 'Facebook'
