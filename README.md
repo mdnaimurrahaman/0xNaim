@@ -60,7 +60,7 @@
 - LinkedIn: https://www.linkedin.com/in/0xnaim
   <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5px" height="5px"> **Activity Graph &#8595;**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
  <a href="https://github.com/0xNaim">
   <img src="https://activity-graph.herokuapp.com/graph?username=0xNaim&theme=react-dark" />
  </a>
